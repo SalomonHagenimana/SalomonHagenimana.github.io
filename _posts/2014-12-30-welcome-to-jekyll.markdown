@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python codes"
-date:   2014-12-30 09:00:13
+date:   2022-11-05 09:00:13
 categories: jekyll update
 permalink: /archivers/hello
 ---
